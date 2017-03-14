@@ -15,13 +15,13 @@ E. Varese – Deserts; K. Stockhausen – Studio II; K. Stockhausen – Gesang d
 
 ### Tasks
 
-Scegliere un brano tra "Turenas" o "Sud" e analizzarne i primi minuti in base a quanto detto in classe, considerando dati di ascolto oggettivi, soggettivi e notizie storiche riguardanti il brano e l'autore del brano.
+1) Scegliere un brano tra "Turenas" o "Sud" e analizzarne i primi minuti in base a quanto detto in classe, considerando dati di ascolto oggettivi, soggettivi e notizie storiche riguardanti il brano e l'autore del brano.
 
-Rispondere almeno a cinque dei seguenti punti: a) Trattare brevemente di Pierre Schaeffer. b) Cosa è lo Studio di Colonia? In cosa si differenzia maggiormente rispetto alla musica concreta? c) Quale è il personaggio maggiormente rilevante dei Laboratori Bell? Per cosa è ricordato? d) Cosa sono le partiture d'ascolto? e) Chi sono gli esponenti principali delle tre Scuole italiane degli anni '60? f) Cosa è l'IRCAM e di cosa si occupa? g) Dove si trova il Centro Tempo Reale? Chi lo ha fondato? h) Descrivere brevemente la partitura di "Studio II". i) Cosa si intende per "strumenti aumentati"? l) Trattare brevemente di Luciano Berio. m) Trattare brevemente di Luigi Nono. n) Trattare brevemente di Jean-Claude Risset.
+2) Rispondere almeno a cinque dei seguenti punti: a) Trattare brevemente di Pierre Schaeffer. b) Cosa è lo Studio di Colonia? In cosa si differenzia maggiormente rispetto alla musica concreta? c) Quale è il personaggio maggiormente rilevante dei Laboratori Bell? Per cosa è ricordato? d) Cosa sono le partiture d'ascolto? e) Chi sono gli esponenti principali delle tre Scuole italiane degli anni '60? f) Cosa è l'IRCAM e di cosa si occupa? g) Dove si trova il Centro Tempo Reale? Chi lo ha fondato? h) Descrivere brevemente la partitura di "Studio II". i) Cosa si intende per "strumenti aumentati"? l) Trattare brevemente di Luciano Berio. m) Trattare brevemente di Luigi Nono. n) Trattare brevemente di Jean-Claude Risset.
 
 
 ### Riferimenti per approfondimenti
 
-Armando Gentilucci, "Introduzione alla musica elettronica"
-H. Pousseur, "La Musica Elettronica"
-Autori i cui articoli sono reperibili in rete: A. Vidolin, A. Di Scipio, N. Bernardini, M. Chion.
+- Armando Gentilucci, "Introduzione alla musica elettronica"
+- H. Pousseur, "La Musica Elettronica"
+- Autori i cui articoli sono reperibili in rete: A. Vidolin, A. Di Scipio, N. Bernardini, M. Chion.
