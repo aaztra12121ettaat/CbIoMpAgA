@@ -1,4 +1,6 @@
-## Informatica Musicale - Introduzione storica
+(lezione, argomenti, tasks più recenti in fondo)
+
+## Lezione 1),2). Informatica Musicale - Introduzione storica
 
 
 ### Argomenti
@@ -25,3 +27,24 @@ E. Varese – Deserts; K. Stockhausen – Studio II; K. Stockhausen – Gesang d
 - Armando Gentilucci, "Introduzione alla musica elettronica"
 - H. Pousseur, "La Musica Elettronica"
 - Autori i cui articoli sono reperibili in rete: A. Vidolin, A. Di Scipio, N. Bernardini, M. Chion.
+
+
+
+## Lezione 3). Dal Suono Analogico al Suono Digitale
+
+
+### Argomenti
+
+Suono; Ciclo, periodicità, periodo, frequenza, lunghezza d'onda; Onda sinusoidale e altri tipi di onde; Le caratteristiche del Suono; Frequenza (unità di misura, limiti di udibilità dell'uomo, infrasuoni, ultrasuoni, intervallo di ottava); Ampiezza (unità di misura, limiti di udibilità dell'uomo); Somma di onde; Timbro: Suoni puri e Suoni complessi, spettro e onda risultante del Suono armonico, spettro e onda risultante del Suono inarmonico; Transitori; Teoria classica e teoria moderna del timbro; Campionamento (periodo di campionamento, frequenza di campionamento, teorema di Nyquist); Errore di quantizzazione.
+
+
+### Ascolti
+
+Esempi relativi agli argomenti trattati.
+
+
+### Tasks
+
+1) Disegnare lo spettro di un suono armonico oppure di un suono inarmonico (quale grandezza è rappresentata sull'asse orizzontale, quale sull'asse verticale, perchè il suono è armonico/inarmonico?...).
+
+2) Rispondere almeno a tre dei seguenti punti: a) Cosa è il suono?; Cosa sono il periodo e la frequenza del suono? b) Frequenza: unità di misura? limiti di udibilità dell'uomo?; Ampiezza: unità di misura? limiti di udibilità dell'uomo? c) Quale è la differenza tra suono puro e suono complesso?; Come viene chiamato il suono puro? d) Quali caratteristiche hanno lo spettro e l'onda risultante di un suono armonico?; Quali caratteristiche hanno lo spettro e l'onda risultante di un suono inarmonico? e) Quali sono i transitori di un suono? f) Cosa sosteneva la teoria classica del timbro?; Cosa sostiene la teoria moderna del timbro? g) Come si presenta un segnale campionato?; Cosa è il periodo di campionamento?; Cosa è la frequenza di campionamento? h) Cosa è il teorema di Nyquist?
