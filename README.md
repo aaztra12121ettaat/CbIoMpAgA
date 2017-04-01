@@ -1,4 +1,4 @@
-(lezione, argomenti, tasks più recenti in fondo)
+(lezione, argomenti e tasks più recenti in fondo)
 
 ## Lezione 1), 2). Informatica Musicale - Introduzione storica
 
