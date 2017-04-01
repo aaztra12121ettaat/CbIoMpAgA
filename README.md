@@ -1,6 +1,6 @@
 (lezione, argomenti, tasks più recenti in fondo)
 
-## Lezione 1),2). Informatica Musicale - Introduzione storica
+## Lezione 1), 2). Informatica Musicale - Introduzione storica
 
 
 ### Argomenti
