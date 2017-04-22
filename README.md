@@ -48,3 +48,26 @@ Esempi relativi agli argomenti trattati.
 1) Disegnare lo spettro di un suono armonico oppure di un suono inarmonico (quale grandezza è rappresentata sull'asse orizzontale, quale sull'asse verticale, perchè il suono è armonico/inarmonico?...).
 
 2) Rispondere almeno a tre dei seguenti punti: a) Cosa è il suono?; Cosa sono il periodo e la frequenza del suono? b) Frequenza: unità di misura? limiti di udibilità dell'uomo?; Ampiezza: unità di misura? limiti di udibilità dell'uomo? c) Quale è la differenza tra suono puro e suono complesso?; Come viene chiamato il suono puro? d) Quali caratteristiche hanno lo spettro e l'onda risultante di un suono armonico?; Quali caratteristiche hanno lo spettro e l'onda risultante di un suono inarmonico? e) Quali sono i transitori di un suono? f) Cosa sosteneva la teoria classica del timbro?; Cosa sostiene la teoria moderna del timbro? g) Come si presenta un segnale campionato?; Cosa è il periodo di campionamento?; Cosa è la frequenza di campionamento? h) Cosa è il teorema di Nyquist?
+
+
+
+## Lezione 4). Dal Sintetizzatore Analogico al Sintetizzatore Digitale
+
+
+### Argomenti
+
+Il sintetizzatore come strumento musicale; Esecuzione in tempo reale e in tempo differito; Voltage Control; Modularità; Il sintetizzatore come strumento elettronico; Struttura del sintetizzatore (circuiti di generazione, elaborazione e controllo); Segnali audio e tensioni di controllo; Denominazione dei circuiti e altre abbreviazioni (V, AS, VC, O, VCO, NG, F, VCF, EG, ADSR, A, VCA, RM, K); Schema a blocchi; Oscillatori; Generatori di rumore bianco; Filtri; Generatori di inviluppo; Amplificatori; Modulatori ad anello; Tastiera, pedale, joystick; Cenni di storia del sintetizzatore.
+
+
+### Audiovideo
+
+"Alla scoperta della Musica Elettronica" - Documentario di Bernard Wilets (reperibile su YouTube)
+
+
+### Tasks 
+
+1) Trattare brevemente di: oscillatori, filtri, generatori di inviluppo, modulatori ad anello (specificando anche per ognuno se si tratta di circuiti di generazione oppure di elaborazione oppure di controllo).
+
+2) Rispondere almeno a due dei seguenti punti: a) Trattare brevemente del sintetizzatore come strumento musicale. Cosa si intende con il termine modularità? Cosa è l'esecuzione in tempo reale? E l'esecuzione in tempo differito? b) In cosa differiscono i segnali audio e le tensioni di controllo? c) Cosa è lo schema a blocchi (riferito al sintetizzatore)? (Eventualmente disegnare uno schema a blocchi che mostri un possibile percorso del segnale audio all'interno del sintetizzatore). Elencare alcuni circuiti componenti il sintetizzatore con la loro denominazione. d) Trattare brevemente di amplificatori e di circuiti di controllo. e) Trattare brevemente del Sintetizzatore Moog e del suo inventore.
+
+
