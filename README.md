@@ -25,7 +25,7 @@ E. Varese – Deserts; K. Stockhausen – Studio II; K. Stockhausen – Gesang d
 ### Riferimenti per approfondimenti
 
 - Armando Gentilucci, "Introduzione alla musica elettronica"
-- H. Pousseur, "La Musica Elettronica"
+- Henri Pousseur, "La Musica Elettronica"
 - Autori i cui articoli sono reperibili in rete: A. Vidolin, A. Di Scipio, N. Bernardini, M. Chion.
 
 
@@ -69,5 +69,31 @@ Il sintetizzatore come strumento musicale; Esecuzione in tempo reale e in tempo 
 1) Trattare brevemente di: oscillatori, filtri, generatori di inviluppo, modulatori ad anello (specificando anche per ognuno se si tratta di circuiti di generazione oppure di elaborazione oppure di controllo).
 
 2) Rispondere almeno a due dei seguenti punti: a) Trattare brevemente del sintetizzatore come strumento musicale. Cosa si intende con il termine modularità? Cosa è l'esecuzione in tempo reale? E l'esecuzione in tempo differito? b) In cosa differiscono i segnali audio e le tensioni di controllo? c) Cosa è lo schema a blocchi (riferito al sintetizzatore)? (Eventualmente disegnare uno schema a blocchi che mostri un possibile percorso del segnale audio all'interno del sintetizzatore). Elencare alcuni circuiti componenti il sintetizzatore con la loro denominazione. d) Trattare brevemente di amplificatori e di circuiti di controllo. e) Trattare brevemente del Sintetizzatore Moog e del suo inventore.
+
+
+
+## Lezione 5). La Sintesi del Suono I
+
+
+### Argomenti
+
+Cosa è la Sintesi del Suono e con quali strumenti viene effettuata. Csound, Max/MSP, Pure Data: cenni storici riguardanti nascita, inventore, predecessori... Differenze e uguaglianze tra Csound, Max/MSP e PD. Come funziona Csound: i file di input (file .orc, file .sco, file .csd) e i file di output (file .wav, file .aiff); gli opcode; oscil e i suoi argomenti, le variabili audio e di controllo. Introduzione al sistema look-up table. Come funziona Pure Data: la patcher, gli oggetti: cycle~, messaggi, numeri, moltiplicatore; implementazione di un semplice algoritmo. Sintesi Additiva e Sintesi Sottrattiva: teoria e rappresentazione grafica. 
+
+
+### Riferimenti per approfondimenti
+
+- http://csounds.com
+- http://www.csounds.com/manual/html/
+- Richard Boulanger, "The Csound Book"
+- Riccardo Bianchini, Alessandro Cipriani, "Il suono virtuale"
+- https://puredata.info
+- https://puredata.info/docs/manuals/
+
+
+### Tasks 
+
+1) Illustrare graficamente la Sintesi Additiva e la Sintesi Sottrattiva. 
+
+2) Rispondere almeno a quattro dei seguenti punti: a) Cosa vuol dire sintetizzare il suono? Cosa permette la sintesi del suono e con quali strumenti può essere effettuata? b) In cosa Csound, Max/MSP e Pure Data sono uguali e in cosa differiscono? c) Trattare brevemente della storia di Csound. Cosa si indica con oscil? Quali sono gli argomenti di oscil? d) Come è fatto un file .orc? In cosa differiscono le variabili audio e le variabili di controllo? e) Come è fatto un file .sco? f) In Pure Data in cosa differiscono gli oggetti che trattano segnali audio da quelli che trattano segnali di controllo? g) Illustrare graficamente un possibile semplice algoritmo in Pure Data. h) Trattare brevemente della storia di Pure Data e del suo rapporto con Max/MSP.
 
 
