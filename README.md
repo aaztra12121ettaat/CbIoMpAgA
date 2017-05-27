@@ -96,3 +96,27 @@ Cosa è la Sintesi del Suono e con quali strumenti viene effettuata. Csound, Max
 - https://puredata.info
 - https://puredata.info/docs/manuals/
 
+
+
+## Lezione 6). La Sintesi del Suono II. La ricerca dell'Informatica Musicale
+
+
+### Argomenti
+
+Le tecniche di Sintesi: classificazione generale (Sintesi per modelli fisici, Tecniche lineari, Tecniche non lineari...); AM e RM: breve spiegazione teorica. Computer Aided Composition: caratteristiche e tools dedicati. Introduzione alla ricerca dell'Informatica Musicale tramite illustrazione di due "studi di caso" riguardanti l'Audio features extraction di Spectral centroid e Sensory Dissonance. Cenni sull'estrazione delle caratteristiche audio e musicali. 
+
+
+### Tasks 
+
+1) a) Delineare una classificazione generale delle tecniche di Sintesi del Suono. Fornire un esempio di tecniche lineari e un esempio di tecniche non lineari. b) Quale è la differenza tra AM e RM, per quanto riguarda il risultato finale? c) Cosa si intende per CAC? Fornire almeno un esempio di software dedicato alla CAC. d) Fornire almeno un esempio di caratteristica audio e un esempio di caratteristica musicale.
+
+
+### Riferimenti per approfondimenti:
+
+- www.freesound.org
+- https://github.com/MTG/essentia
+- https://github.com/MTG/sms-tools
+- https://github.com/jamiebullock/LibXtract 
+- http://marsyas.info
+- http://jmir.sourceforge.net/jAudio.html
+- http://www.audacityteam.org
