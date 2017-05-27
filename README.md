@@ -108,7 +108,7 @@ Le tecniche di Sintesi: classificazione generale (Sintesi per modelli fisici, Te
 
 ### Tasks 
 
-1) a) Delineare una classificazione generale delle tecniche di Sintesi del Suono. Fornire un esempio di tecniche lineari e un esempio di tecniche non lineari. b) Quale è la differenza tra AM e RM, per quanto riguarda il risultato finale? c) Cosa si intende per CAC? Fornire almeno un esempio di software dedicato alla CAC. d) Fornire almeno un esempio di caratteristica audio e un esempio di caratteristica musicale.
+a) Delineare una classificazione generale delle tecniche di Sintesi del Suono. Fornire un esempio di tecniche lineari e un esempio di tecniche non lineari. b) Quale è la differenza tra AM e RM, per quanto riguarda il risultato finale? c) Cosa si intende per CAC? Fornire almeno un esempio di software dedicato alla CAC. d) Fornire almeno un esempio di caratteristica audio e un esempio di caratteristica musicale.
 
 
 ### Riferimenti per approfondimenti
